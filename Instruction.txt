@@ -1,10 +1,21 @@
-for dowloading a file from git repository
-git clone address
---->to add mewly created filed
-git add .
--->to see the added files
-git status
--->To see status 
-git commit -m "Add a purpose"
--->Upload newly created files
-git push origin master
+08/09/2018
+Git
+Class
+*git clone  https://github.com/mdyasinarif/IT-concpet.git
+*git config --global user.name "Sam Smith"	                       *for first time
+*git config --global user.email sam@example.com
+1- git pull origin master
+2- git status
+3- git add . ( for all file) or git add file name
+4- git commit -m “tex different type“
+5- git push origin master
+
+Home 
+*git clone  https://github.com/mdyasinarif/IT-concpet.git
+*git config --global user.name "Sam Smith"                             *for first time
+*git config --global user.email sam@example.com
+1- git pull origin master
+2- git status
+3.- git add . ( for all file) or git add file name
+4-git commit -m “tex different type“
+5- git push origin master
