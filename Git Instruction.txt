@@ -19,3 +19,6 @@ Home
 3.- git add . ( for all file) or git add file name
 4-git commit -m “tex different type“
 5- git push origin master
+
+git uninstall
+git credential -manager uninstall
