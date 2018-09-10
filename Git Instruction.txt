@@ -22,3 +22,12 @@ Home
 
 git uninstall
 git credential -manager uninstall
+
+
+Remote file add kora
+
+1.git init
+2.git add .
+3.git commit -m "work"
+4.git remote add origin https://github.com/mdyasinarif/Work.git
+5.git push origin master
